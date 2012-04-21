@@ -1,0 +1,4 @@
+name: BlockPlaceTracker
+main: ger.pandemoneus.blockPlaceTracker.BlockPlaceTracker
+version: '1.00'
+author: 'Pandemoneus'
